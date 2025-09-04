@@ -1,3 +1,5 @@
+notes on reading: Engelke & McNeill, Introduction, Energy and Population, Conclusion
+
 # The great acceleration - an environmental history since 1945
 
 ### Introduction
@@ -13,7 +15,6 @@ Definition: human action becomes the most important factor governing the major b
     - carbon cycle
     - nitrogen cycle
     - sulfur cycle
-
 
 ### Chapter 1: Energy and Population
 
